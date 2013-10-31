@@ -1,0 +1,6 @@
+# exclude bins (no extension)
+lab*/*
+!lab*/*.*
+
+# exclude temp files
+*.*~
